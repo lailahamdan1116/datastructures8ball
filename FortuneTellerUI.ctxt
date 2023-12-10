@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FortuneTellerUI
+comment1.params=
+comment1.target=FortuneTellerUI()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=fortune\ image
+comment3.target=javax.swing.JPanel\ createFortunePanel(java.lang.String,\ java.awt.Image)
+numComments=4

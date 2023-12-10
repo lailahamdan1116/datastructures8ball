@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EightBall
+comment1.params=
+comment1.target=EightBall()
+comment2.params=
+comment2.target=java.lang.String\ getFortune()
+comment3.params=
+comment3.target=java.awt.Image\ getImage()
+comment4.params=size\ usedIndexes
+comment4.target=int\ getRandomIndex(int,\ java.util.Set)
+comment5.params=
+comment5.target=java.lang.String\ getRandomFortune()
+comment6.params=
+comment6.target=java.awt.Image\ getRandomImage()
+numComments=7
